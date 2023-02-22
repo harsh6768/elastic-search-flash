@@ -21,3 +21,11 @@ Use Case : For Elastic Stack
   
   
   
+# Elastic Search : 
+
+**Use Case :** 
+
+Store , Search , Analyze
+
+When speed and relevancy is required , elastic search comes handy.
+
