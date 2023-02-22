@@ -13,7 +13,11 @@ Use Case : For Elastic Stack
   
 3. Security Analytics
   Company : Slack
+  Slack uses elastic stack for secure ,communication between channels.
   
 4. Business Analytics
   Company : Tinder
+  It uses geolocation to match the profile.
+  
+  
   
